@@ -1,2 +1,2 @@
-# my-1st-webmap-app
+# my-1st-webmapping-app
 This is my first webmap application
